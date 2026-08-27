@@ -1,4 +1,4 @@
-# Hi there, I'm Khairunisa Nada! <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="35px">
+# Hi there, I'm Khairunisa Nada! <img src="https://media.giphy.com/media/GeADmXF9HUAQ9Nf73L/giphy.gif" width="40px">
 
 ### 👩‍💻 About Me
 - 🎓 Information Systems student at **Institut Teknologi Batam (ITEBA)**, currently in semester 5.
