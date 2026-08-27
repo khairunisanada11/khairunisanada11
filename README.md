@@ -1,7 +1,7 @@
 # Hi there, I'm Khairunisa Nada! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="35px">
 
 ### 👩‍💻 About Me
-- 🎓 Information Systems student at **Institut Teknologi Batam (ITEBA)**, currently in semester 5.
+- 🎓 Information Systems student at **Institut Teknologi Batam (ITEBA)**
 - 🌱 Currently learning **Python**, **HTML**, and **SQL**.
 - 🔍 Curious by nature, always excited to explore something new.
 
