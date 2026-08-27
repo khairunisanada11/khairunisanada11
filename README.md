@@ -11,16 +11,14 @@
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white" alt="VB.NET" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/UML_/_ERD_/_DFD-000000?style=flat" alt="System Design" />
 </p>
 
 ---
-
 ### 📊 GitHub Stats
-![Nada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khairunisanada11&show_icons=true&theme=tokyonight)
+![Nada's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khairunisanada11&theme=tokyonight&hide_border=true)
 
 ---
 
