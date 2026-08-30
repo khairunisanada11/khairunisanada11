@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./banner.png" alt="Profile Banner" width="100%">
-</p>
+<img width="2520" height="690" alt="banner" src="https://github.com/user-attachments/assets/15f6e9fe-7981-4014-9c71-86579c448bc1" />
 
 <h1 align="center">
   Hi there, I'm Khairunisa Nada Rachmanita!
